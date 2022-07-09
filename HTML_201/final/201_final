@@ -1,0 +1,62 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The HTML Final</title>
+</head>
+<body>
+    <table border="3" width="100%">
+        <tr colspan="2" height="120%">
+        <th>
+            HTML 201 Final
+        </th>
+        </tr>
+
+
+      <tr>
+          <td>
+            <ul>
+                <li>
+                    <a href="file:///C:/Users/rakma/OneDrive/Desktop/u_used_me_4_WEBDEVELOPMENT/HTML_201/html2_electric_bugaloo.html">
+                    Wanna see the first attempt?
+                    </a>
+                </li>
+
+                    <li>
+                        <a href="https://www.spotify.com">Go to Spotify</a>
+                    </li>
+            </ul>
+            
+            <tr>
+                <td rowspan="1">
+                    
+                    <img src="images/Leslie_face.jpg" width="82" title="A picture of the developer" alt="A picture of the developer">
+                    <div>
+                        <p>
+                            ^^^^^ that's me
+                        </p>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/4wwaP7x1VuA?start=154"
+                        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+                        clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+
+                    <td width="20%">
+                        Well here we are; the final project for the HTML portion
+                        of the full stack web<br>development course.
+                        One of the things that I seem to be having<br>
+                        difficulty with is the merging of table cells.
+                        <br>However if this page is on CodePen,it is<br>
+                        safe to say that I figured something out.
+                    </td>
+                </td>
+            </tr>
+                <tr>
+                    <td>
+                    <h3>Copyright<span>&#169;</span> Leslie W 2022</h3>
+                    </td>
+                </tr>
+              
+    </table>
+</body>
+</html>
